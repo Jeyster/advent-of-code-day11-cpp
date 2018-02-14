@@ -1,5 +1,6 @@
 #include <iostream>
 #include "tools.h"
+#include "Hex.h"
 
 using namespace std;
 
